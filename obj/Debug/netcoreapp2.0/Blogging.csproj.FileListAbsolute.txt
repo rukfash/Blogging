@@ -1,0 +1,11 @@
+C:\Users\Faruk\source\repos\Blogging\Blogging\bin\Debug\netcoreapp2.0\Blogging.deps.json
+C:\Users\Faruk\source\repos\Blogging\Blogging\bin\Debug\netcoreapp2.0\Blogging.runtimeconfig.json
+C:\Users\Faruk\source\repos\Blogging\Blogging\bin\Debug\netcoreapp2.0\Blogging.runtimeconfig.dev.json
+C:\Users\Faruk\source\repos\Blogging\Blogging\bin\Debug\netcoreapp2.0\Blogging.dll
+C:\Users\Faruk\source\repos\Blogging\Blogging\bin\Debug\netcoreapp2.0\Blogging.pdb
+C:\Users\Faruk\source\repos\Blogging\Blogging\obj\Debug\netcoreapp2.0\Blogging.csprojAssemblyReference.cache
+C:\Users\Faruk\source\repos\Blogging\Blogging\obj\Debug\netcoreapp2.0\Blogging.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\source\repos\Blogging\Blogging\obj\Debug\netcoreapp2.0\Blogging.AssemblyInfoInputs.cache
+C:\Users\Faruk\source\repos\Blogging\Blogging\obj\Debug\netcoreapp2.0\Blogging.AssemblyInfo.cs
+C:\Users\Faruk\source\repos\Blogging\Blogging\obj\Debug\netcoreapp2.0\Blogging.dll
+C:\Users\Faruk\source\repos\Blogging\Blogging\obj\Debug\netcoreapp2.0\Blogging.pdb
