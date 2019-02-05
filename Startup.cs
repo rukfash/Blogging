@@ -7,7 +7,6 @@ using Microsoft.EntityFrameworkCore;
 using Blogging.Shared;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
-using AutoMapper;
 using Microsoft.AspNetCore.ResponseCompression;
 using System.IO.Compression;
 
@@ -29,7 +28,6 @@ namespace Blogging
             DependencyInjectionConfig.AddScope(services);
             services.AddMvc().AddJsonOptions(options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
-            services.AddAutoMapper();
             
         }
 
